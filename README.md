@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align='center'>💻직접 부딪히고 경험하면서 성장하는 유경훈입니다.</div>
 <br>
 <div align='center'> ✉Email : <a href="mailto:dbrudgns0626@naver.com">dbrudgns0626@naver.com</a></div>
-<div align='center'> 🔗Notion : <a href="https://abounding-clownfish-456.notion.site/9589212dfdac4f8ea36e97dcd79f44d3">노션링크</a></div>
+<div align='center'> 🔗Notion : <a href="https://delirious-fight-87f.notion.site/1eef5d99875480648525fa07ce4e8ac4">노션링크</a></div>
 <div align='center'> 🌐Blog : <a href="https://nocdu112.tistory.com/">블로그</a></div>
 <br>
 <br>
