@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=BongJune's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=GyeongHoon%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45)
 
 <br>
-<div align='center'>💻깊고 넓게 공부하는 개발자 김봉준입니다.</div>
+<div align='center'>💻직접 부딪히고 경험하면서 성장하는 유경훈입니다.</div>
 <br>
-<div align='center'> ✉Email : <a href="mailto:nocdu112@naver.com">nocdu112@naver.com</a></div>
+<div align='center'> ✉Email : <a href="mailto:dbrudgns0626@naver.com">dbrudgns0626@naver.com</a></div>
 <div align='center'> 🔗Notion : <a href="https://abounding-clownfish-456.notion.site/9589212dfdac4f8ea36e97dcd79f44d3">노션링크</a></div>
 <div align='center'> 🌐Blog : <a href="https://nocdu112.tistory.com/">블로그</a></div>
 <br>
