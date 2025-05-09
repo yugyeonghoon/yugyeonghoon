@@ -20,21 +20,21 @@ Here are some ideas to get you started:
 <br>
 <div align='center'> ✉Email : <a href="mailto:dbrudgns0626@naver.com">dbrudgns0626@naver.com</a></div>
 <div align='center'> 🔗Notion : <a href="https://delirious-fight-87f.notion.site/1eef5d99875480648525fa07ce4e8ac4">노션링크</a></div>
-<div align='center'> 🌐Blog : <a href="https://nocdu112.tistory.com/">블로그</a></div>
 <br>
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuGt&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimbongjune&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yugyeonghoon&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugyeonghoon&layout=compact)
 
 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>&nbsp
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=Jetpack%20Compose&logoColor=white"/></a>&nbsp 
   
