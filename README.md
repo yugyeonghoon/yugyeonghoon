@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yugyeonghoon&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugyeonghoon&layout=compact)
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yugyenoghoon)](https://github.com/yugyenoghoon/github-readme-stats)
-GitHub Readme Stats: github-readme-stats.vercel.app/api?username={yugyeonghoon}&show_icons=true
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yugyeonghoon&show_icons=true&theme=dark)
+
 
 
 
